@@ -15,7 +15,7 @@
 
 - Le client est une association de victimes de l'amiante et de prévention .
 - Cette association existe 1995 et n'as pas de site web.
-- Il souhaite un site web statique et dynamique afin de mieux se faire connaitre .
+- Il souhaite un site web statique afin de mieux se faire connaitre .
 - Il a déja son logo et son slogan,il veut un site qui contiendras :
 
 - Une page d'acceuil
