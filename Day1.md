@@ -7,8 +7,8 @@
 **Membres présent:**
 
 - Despres Jean Michel (Président de l'association)
-- Forment Martine (Secrétaire et principale interlocutrice)
-- Mathilde De Beaume (Formatrice de "Yes We Web")
+- Fromont Martine (Secrétaire et principale interlocutrice)
+- Mathilde De Beaune (Formatrice de "Yes We Web")
 - Menouer Rabah (Stagiaire)
 
 **Compte rendu:**
